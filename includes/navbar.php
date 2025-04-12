@@ -43,7 +43,7 @@
     <!-- Navigation Bar -->
     <nav>
         <ul>
-            <li><a href="../pages/index.php">Home</a></li>
+            <li><a href="../agrisphere/pages/index.php">Home</a></li>
             <li><a href="../pages/contact.php">Contact</a></li>
             <li><a href="../pages/faqs.php">FAQs</a></li>
             <li><a href="../auth/login.php">Login</a></li>
